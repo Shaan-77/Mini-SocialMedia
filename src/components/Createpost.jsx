@@ -99,7 +99,7 @@ const Createpost = () => {
               />
             ) : (
               <img
-                src="../src/img/default.png"
+                src="./default.png"
                 alt=""
                 className="Select-img"
                 title="Upload image for post"

@@ -16,7 +16,7 @@ const Posts = ({ post }) => {
         style={{ width: "18rem", height: "fit-content", margin: "15px" }}
       >
         <img
-          src={post.imageDataUrl || "../src/img/default.png"}
+          src={post.imageDataUrl || "./default.png"}
           className="card-img-top image"
           alt="Post"
         />
