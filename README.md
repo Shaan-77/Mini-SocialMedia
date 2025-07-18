@@ -29,7 +29,7 @@ Creating-Post Page
 Go to the project directory
 
 ```bash
-  cd Pokemon-pj
+  cd social-media-app
 ```
 
 Install dependencies
