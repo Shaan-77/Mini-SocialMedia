@@ -1,4 +1,4 @@
-📱 Mini Social Media | Learning Project for Post Management
+## 📱 Mini Social Media | Learning Project for Post Management
 
 Mini Social Media is a web application developed as part of my learning journey in frontend development. The project focuses on enabling users to Create and publish posts, simulating core functionality found in modern social media platforms.
 
